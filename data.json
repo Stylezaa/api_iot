@@ -6,7 +6,7 @@
     },
     "station_list": [
         {
-            "_id": "623ad1e49e1ac530bc201f61",
+            "id": "623ad1e49e1ac530bc201f61",
             "name": "Station 1",
             "lastupdate": "022-05-09T03:47:44.923Z",
             "timestamp": 1648021960190,
@@ -21,7 +21,7 @@
             }
         },
         {
-            "_id": "623ad1a79e1ac530bc201f60",
+            "id": "623ad1a79e1ac530bc201f60",
             "name": "Station 2",
             "lastupdate": "2022-05-09T03:47:44.924Z",
             "timestamp": 1648021900177,
@@ -36,7 +36,7 @@
             }
         },
         {
-            "_id": "623ad16b9e1ac530bc201f5f",
+            "id": "623ad16b9e1ac530bc201f5f",
             "name": "Station 3",
             "lastupdate": "2022-05-09T03:47:44.925Z",
             "timestamp": 1648021840164,
@@ -51,7 +51,7 @@
             }
         },
         {
-            "_id": "623ad12f9e1ac530bc201f5e",
+            "id": "623ad12f9e1ac530bc201f5e",
             "name": "Station 4",
             "lastupdate": "2022-05-09T03:47:44.925Z",
             "timestamp": 1648021780150,
@@ -66,7 +66,7 @@
             }
         },
         {
-            "_id": "623ad0f39e1ac530bc201f5d",
+            "id": "623ad0f39e1ac530bc201f5d",
             "name": "Station 5",
             "lastupdate": "2022-05-09T03:47:44.925Z",
             "timestamp": 1648021720138,
