@@ -1,0 +1,84 @@
+{
+    "last_station": {
+        "pH": 4,
+        "DO": 54,
+        "EC": 1145
+    },
+    "station_list": [
+        {
+            "_id": "623ad1e49e1ac530bc201f61",
+            "name": "Station 1",
+            "lastupdate": "022-05-09T03:47:44.923Z",
+            "timestamp": 1648021960190,
+            "coordinates": {
+                "latitude": "17.956352",
+                "longitude": "102.603704"
+            },
+            "latest": {
+                "pH": 4,
+                "DO": 54,
+                "EC": 1145
+            }
+        },
+        {
+            "_id": "623ad1a79e1ac530bc201f60",
+            "name": "Station 2",
+            "lastupdate": "2022-05-09T03:47:44.924Z",
+            "timestamp": 1648021900177,
+            "coordinates": {
+                "latitude": "17.984421",
+                "longitude": "102.628662"
+            },
+            "latest": {
+                "pH": 2,
+                "DO": 97,
+                "EC": 3370
+            }
+        },
+        {
+            "_id": "623ad16b9e1ac530bc201f5f",
+            "name": "Station 3",
+            "lastupdate": "2022-05-09T03:47:44.925Z",
+            "timestamp": 1648021840164,
+            "coordinates": {
+                "latitude": "17.975051",
+                "longitude": "102.636504"
+            },
+            "latest": {
+                "pH": 1,
+                "DO": 10,
+                "EC": 692
+            }
+        },
+        {
+            "_id": "623ad12f9e1ac530bc201f5e",
+            "name": "Station 4",
+            "lastupdate": "2022-05-09T03:47:44.925Z",
+            "timestamp": 1648021780150,
+            "coordinates": {
+                "latitude": "17.989155",
+                "longitude": "102.631896"
+            },
+            "latest": {
+                "pH": 4,
+                "DO": 19,
+                "EC": 3123
+            }
+        },
+        {
+            "_id": "623ad0f39e1ac530bc201f5d",
+            "name": "Station 5",
+            "lastupdate": "2022-05-09T03:47:44.925Z",
+            "timestamp": 1648021720138,
+            "coordinates": {
+                "latitude": "17.995257",
+                "longitude": "102.629611"
+            },
+            "latest": {
+                "pH": 4,
+                "DO": 5,
+                "EC": 364
+            }
+        }
+    ]
+}
