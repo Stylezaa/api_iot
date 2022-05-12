@@ -3,6 +3,7 @@
       {
         "id": "623ad1e49e1ac530bc201f61",
         "name": "Station 1",
+        "wifiName": "IoT",
         "last_update": "022-05-09T03:47:44.923Z",
         "timestamp": 1648021960190,
         "coordinates": {
@@ -18,6 +19,7 @@
       {
         "id": "623ad1a79e1ac530bc201f60",
         "name": "Station 2",
+        "wifiName": "IoT",
         "last_update": "2022-05-09T03:47:44.924Z",
         "timestamp": 1648021900177,
         "coordinates": {
@@ -33,6 +35,7 @@
       {
         "id": "623ad16b9e1ac530bc201f5f",
         "name": "Station 3",
+        "wifiName": "IoT",
         "last_update": "2022-05-09T03:47:44.925Z",
         "timestamp": 1648021840164,
         "coordinates": {
@@ -48,6 +51,7 @@
       {
         "id": "623ad12f9e1ac530bc201f5e",
         "name": "Station 4",
+        "wifiName": "IoT",
         "last_update": "2022-05-09T03:47:44.925Z",
         "timestamp": 1648021780150,
         "coordinates": {
@@ -63,6 +67,7 @@
       {
         "id": "623ad0f39e1ac530bc201f5d",
         "name": "Station 5",
+        "wifiName": "IoT",
         "last_update": "2022-05-09T03:47:44.925Z",
         "timestamp": 1648021720138,
         "coordinates": {
@@ -78,6 +83,7 @@
       {
         "id": "623ad0b79e1ac530bc201f5c",
         "name": "Station 6",
+        "wifiName": "IoT",
         "last_update": "2022-05-09T15:19:54.447Z",
         "timestamp": 1648021660125,
         "coordinates": {
@@ -93,6 +99,7 @@
       {
         "id": "623ad07b9e1ac530bc201f5b",
         "name": "Station 7",
+        "wifiName": "IoT",
         "last_update": "022-05-09T15:19:54.447Z",
         "timestamp": 1648021600110,
         "coordinates": {
