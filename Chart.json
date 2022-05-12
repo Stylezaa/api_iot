@@ -1,120 +1,124 @@
-  {
-    "id": "623ad1e49e1ac530bc201f61",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "022-05-09T03:47:44.923Z",
-    "timestamp": 1648021960190,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 4,
-    "DO": 54,
-    "EC": 1145
-  },
-  {
-    "id": "623ad1a79e1ac530bc201f60",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "2022-05-09T03:47:44.924Z",
-    "timestamp": 1648021900177,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 2,
-    "DO": 97,
-    "EC": 3370
-  },
-  {
-    "id": "623ad16b9e1ac530bc201f5f",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "2022-05-09T03:47:44.925Z",
-    "timestamp": 1648021840164,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 1,
-    "DO": 10,
-    "EC": 692
-  },
-  {
-    "id": "623ad12f9e1ac530bc201f5e",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "2022-05-09T03:47:44.925Z",
-    "timestamp": 1648021780150,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 4,
-    "DO": 19,
-    "EC": 3123
-  },
-  {
-    "id": "623ad0f39e1ac530bc201f5d",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "2022-05-09T03:47:44.925Z",
-    "timestamp": 1648021720138,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 4,
-    "DO": 5,
-    "EC": 364
-  },
-  {
-    "id": "623ad0b79e1ac530bc201f5c",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "2022-05-09T15:19:54.447Z",
-    "timestamp": 1648021660125,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 5,
-    "DO": 64,
-    "EC": 1539
-  },
-  {
-    "id": "623ad07b9e1ac530bc201f5b",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "022-05-09T15:19:54.447Z",
-    "timestamp": 1648021600110,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 9,
-    "DO": 47,
-    "EC": 3086
-  },
-  {
-    "id": "623ad08b9e1ac430bc201f3b",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "022-05-09T15:19:54.447Z",
-    "timestamp": 1648021600110,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 7,
-    "DO": 42,
-    "EC": 2234
-  },
-  {
-    "id": "623ad07b3e1ac330bc201f2b",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "022-05-09T15:19:54.447Z",
-    "timestamp": 1648021600110,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 8,
-    "DO": 25,
-    "EC": 1253
-  },
-  {
-    "id": "623ad07b2e1ac230bc201f5b",
-    "name": "Station 1",
-    "wifiName": "IoT",
-    "last_update": "022-05-09T15:19:54.447Z",
-    "timestamp": 1648021600110,
-    "latitude": "17.938568",
-    "longitude": "102.625921"
-    "pH": 2,
-    "DO": 23,
-    "EC": 3234
-  }
+{
+  "sensor_1": [
+      {
+        "id": "623ad1e49e1ac530bc201f61",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T03:47:44.923Z",
+        "timestamp": 1648021960190,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 4,
+        "DO": 54,
+        "EC": 1145
+      },
+      {
+        "id": "623ad1a79e1ac530bc201f60",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "2022-05-09T03:47:44.924Z",
+        "timestamp": 1648021900177,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 2,
+        "DO": 97,
+        "EC": 3370
+      },
+      {
+        "id": "623ad16b9e1ac530bc201f5f",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "2022-05-09T03:47:44.925Z",
+        "timestamp": 1648021840164,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 1,
+        "DO": 10,
+        "EC": 692
+      },
+      {
+        "id": "623ad12f9e1ac530bc201f5e",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "2022-05-09T03:47:44.925Z",
+        "timestamp": 1648021780150,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 4,
+        "DO": 19,
+        "EC": 3123
+      },
+      {
+        "id": "623ad0f39e1ac530bc201f5d",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "2022-05-09T03:47:44.925Z",
+        "timestamp": 1648021720138,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 4,
+        "DO": 5,
+        "EC": 364
+      },
+      {
+        "id": "623ad0b79e1ac530bc201f5c",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "2022-05-09T15:19:54.447Z",
+        "timestamp": 1648021660125,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 5,
+        "DO": 64,
+        "EC": 1539
+      },
+      {
+        "id": "623ad07b9e1ac530bc201f5b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 9,
+        "DO": 47,
+        "EC": 3086
+      },
+      {
+        "id": "623ad08b9e1ac430bc201f3b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 7,
+        "DO": 42,
+        "EC": 2234
+      },
+      {
+        "id": "623ad07b3e1ac330bc201f2b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 8,
+        "DO": 25,
+        "EC": 1253
+      },
+      {
+        "id": "623ad07b2e1ac230bc201f5b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "latitude": "17.938568",
+        "longitude": "102.625921"
+        "pH": 2,
+        "DO": 23,
+        "EC": 3234
+      }
+  ]
+}
