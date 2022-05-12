@@ -7,8 +7,8 @@
         "last_update": "022-05-09T03:47:44.923Z",
         "timestamp": 1648021960190,
         "coordinates": {
-          "latitude": "17.956352",
-          "longitude": "102.603704"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 4,
@@ -23,8 +23,8 @@
         "last_update": "2022-05-09T03:47:44.924Z",
         "timestamp": 1648021900177,
         "coordinates": {
-          "latitude": "17.984421",
-          "longitude": "102.628662"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 2,
@@ -39,8 +39,8 @@
         "last_update": "2022-05-09T03:47:44.925Z",
         "timestamp": 1648021840164,
         "coordinates": {
-          "latitude": "17.975051",
-          "longitude": "102.636504"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 1,
@@ -55,8 +55,8 @@
         "last_update": "2022-05-09T03:47:44.925Z",
         "timestamp": 1648021780150,
         "coordinates": {
-          "latitude": "17.989155",
-          "longitude": "102.631896"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 4,
@@ -71,8 +71,8 @@
         "last_update": "2022-05-09T03:47:44.925Z",
         "timestamp": 1648021720138,
         "coordinates": {
-          "latitude": "17.995257",
-          "longitude": "102.629611"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 4,
@@ -87,8 +87,8 @@
         "last_update": "2022-05-09T15:19:54.447Z",
         "timestamp": 1648021660125,
         "coordinates": {
-          "latitude": "17.969047",
-          "longitude": "102.648937"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 5,
@@ -103,8 +103,56 @@
         "last_update": "022-05-09T15:19:54.447Z",
         "timestamp": 1648021600110,
         "coordinates": {
-          "latitude": "17.977568",
-          "longitude": "102.637393"
+          "latitude": "17.938568",
+          "longitude": "102.625921"
+        },
+        "sensor": {
+          "pH": 9,
+          "DO": 47,
+          "EC": 3086
+        }
+      },
+      {
+        "id": "623ad07b9e1ac530bc201f5b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "coordinates": {
+          "latitude": "17.938568",
+          "longitude": "102.625921"
+        },
+        "sensor": {
+          "pH": 9,
+          "DO": 47,
+          "EC": 3086
+        }
+      },
+      {
+        "id": "623ad07b9e1ac530bc201f5b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "coordinates": {
+          "latitude": "17.938568",
+          "longitude": "102.625921"
+        },
+        "sensor": {
+          "pH": 9,
+          "DO": 47,
+          "EC": 3086
+        }
+      },
+      {
+        "id": "623ad07b9e1ac530bc201f5b",
+        "name": "Station 1",
+        "wifiName": "IoT",
+        "last_update": "022-05-09T15:19:54.447Z",
+        "timestamp": 1648021600110,
+        "coordinates": {
+          "latitude": "17.938568",
+          "longitude": "102.625921"
         },
         "sensor": {
           "pH": 9,
